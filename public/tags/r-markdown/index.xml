@@ -6,10 +6,19 @@
     <description>Recent content in R Markdown on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FraDars</title>
+      <link>/2020/04/23/fradars/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/23/fradars/</guid>
+      <description>خوشه بندی خوشه بندی (Clustering)«تحلیل خوشه بندی» (Cluster Analysis) یا بطور خلاصه خوشه بندی، فرآیندی است که به کمک آن می توان مجموعه ای از اشیاء را به گروه های مجزا افراز کرد. هر افراز یک خوشه نامیده می شود. اعضاء هر خوشه با توجه به ویژگی هایی که دارند به یکدیگر بسیار شبیه هستند و در عوض میزان شباهت بین خوشه ها کمترین مقدار است.</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>
